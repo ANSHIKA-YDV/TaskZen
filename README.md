@@ -19,7 +19,7 @@
 
 ## 📸 Screenshot
 
-![TaskZen UI](Screenshot.png)  
+![TaskZen UI](public/Screenshot.png)  
 
 
 ---
