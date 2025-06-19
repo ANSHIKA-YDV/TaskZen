@@ -35,4 +35,23 @@
 ---
 
 ## 📁 Folder Structure (Simplified)
+TaskZen/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ ├── index.js
+├── .gitignore
+├── package.json
+└── README.md
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ANSHIKA-YDV/TaskZen.git
+cd TaskZen/client
 
